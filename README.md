@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jesus Garcia
-- 👀 I’m interested in C# and C++ programming and Unity game development. 
+- 👀 I’m interested in C#, C++, Java, and Python programming and Unity game development. 
 - 🌱 I’m currently learning C# and Unity game development.
-- 💞️ I’m looking to collaborate on different types of game development projects. 
+- 💞️ I’m looking to collaborate on different types of software development projects. 
 - 📫 You can reach me at jgarcia18201@gmail.com
 
 <!---
